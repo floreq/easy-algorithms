@@ -1,4 +1,4 @@
-﻿Lista kroków dla algorytmu "delty" rozwiązujące równanie kwadratowe
+﻿Lista kroków dla algorytmu "delty" rozwiązujące równanie kwadratowe.
 
 SPECYFIKACJA
 - (dane) Liczby rzeczywiste a, b, c
