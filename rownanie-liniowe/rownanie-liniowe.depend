@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553539792 source:d:\documents_hdd\c++\rownanie-liniowe\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
