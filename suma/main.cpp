@@ -4,8 +4,11 @@ using namespace std;
 
 int main()
 {
-    char a;
-    cout << "Hello world!" << endl;
-    cin >> a;
-    return 0;
+    int number;
+    int x = 0;
+    
+    while (scanf("%d",&number) != EOF) {
+        x = x + number;
+        cout << x << endl;
+    };
 }
