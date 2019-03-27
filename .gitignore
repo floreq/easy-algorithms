@@ -7,3 +7,5 @@ obj/
 *.cbp
 *.depend
 *.layout
+*.vscode
+*.exe
