@@ -11,4 +11,5 @@ int main()
         x = x + number;
         cout << x << endl;
     };
+    return 0;
 }
