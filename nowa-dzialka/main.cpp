@@ -12,6 +12,5 @@ int main()
         cin >> X;
         cout << X * X << endl;    
     };
-
     return 0;
 }
