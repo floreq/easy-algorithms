@@ -25,8 +25,6 @@ int main()
         cin >> a >> b;
         if (b==0) {
             cout << 1 << endl;
-        } else if (b==1) {
-            cout << a%10 << endl;
         } else {
             for (int i=10; i>=0; i--) {
                 if ((a%10)%i==0) {
